@@ -1,62 +1,72 @@
-<h1 align="center">👋 Hey there, I'm Aarogya Ojha</h1>
-<h3 align="center">Full-Stack Web Developer | SaaS Platforms | Cloud & Machine Learning Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm Aarogya Ojha</h1>
+<h3 align="center">Full Stack Engineer · Applied ML & NLP · Incoming MS CS Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Next.js+%2F+NestJS+%2F+PostgreSQL+%2F+Prisma+%2F+AWS;Python+%2F+Machine+Learning+%2F+LangChain;SaaS+Platforms+%7C+Cloud+Deployment+%7C+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+NLP+%7C+End-to-End+ML+Pipelines;Next.js+%2F+NestJS+%2F+PostgreSQL+%2F+Elasticsearch;Actively+seeking+Graduate+Assistantship+%40+USD" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Web Developer** with experience building **scalable SaaS platforms, web applications, and cloud-based solutions**.  
-I enjoy **solving complex problems**, integrating **machine learning** into applications, and creating **robust, maintainable systems**.
+I am a **Full Stack Engineer** with a focus on **Applied Machine Learning and Natural Language Processing**, currently working at **Ryyft (Kathmandu)** and incoming **MS Computer Science student** for Fall 2026.
 
-- 💼 Currently a **Junior Full-Stack Developer at Ryyft**, working on **Next.js, NestJS, PostgreSQL, Prisma, and AWS**  
-- 🧠 Experienced in **Python, Pandas, Scikit-Learn, LangChain, Jupyter, and Google Colab** for ML and data workflows  
-- ☁️ Skilled in **AWS (S3, EC2, CloudFront), Ubuntu, Docker, and CI/CD pipelines**  
-- 🎓 **B.E. in Computer Science**, CMRIT Bangalore, **CGPA: 8.5/10**  
-- 💬 Ask me about **web apps, SaaS platforms, cloud deployment, APIs, or ML pipelines**  
+My work sits at the intersection of **software engineering and data-driven systems** — from production-grade APIs and search pipelines to end-to-end ML classifiers trained on real-world datasets.
+
+- 🤖 Built a **sentiment classifier on 1.6M tweets** (TF-IDF + Logistic Regression, **78% accuracy**) with full error analysis  
+- 🏥 Built a **clinical diabetes prediction system** (KNN classifier, **81% accuracy**) with EDA and confusion matrix evaluation  
+- 🔍 Building **Elasticsearch-powered data retrieval pipelines** at production scale at Ryyft  
+- 🎓 **B.E. Computer Science**, CMRIT Bangalore — CGPA: **8.5/10**  
+- 🏆 **Hackathon Finalist** — Shristi 2024, Bengaluru — awarded ₹50,000 for ML-powered solution  
+- 📬 Actively seeking **Graduate Assistantship (TA/RA)** opportunities  
 
 ---
 
-## ⚒️ Tech Stack & Tools
+## 🧠 ML & Data Science Projects
 
-### 🌐 Web Development & Full-Stack
-Next.js · NestJS · React · Angular · Express.js · Spring Boot · REST APIs · GraphQL · Prisma · PostgreSQL · MongoDB · SQL  
+| Project | Description | Accuracy | Stack |
+|--------|-------------|----------|-------|
+| [Twitter Sentiment Analysis](https://github.com/aarogyaojha/x-sentiment-analyzer) | NLP pipeline on 1.6M tweets — TF-IDF, Logistic Regression, error analysis | 78% | Python, Scikit-learn, Pandas |
+| [Diabetes Prediction](https://github.com/aarogyaojha/diabetes-prediction) | Clinical ML — KNN classifier, EDA, confusion matrix evaluation | 81% | Python, Scikit-learn, NumPy |
+| [Car Price Prediction](https://github.com/aarogyaojha/Car-Price-Predictor) | Regression pipeline with real-time inference deployment | — | Python, Streamlit, Scikit-learn |
+| [OTT Recommendation System](https://github.com/aarogyaojha/Recommendation-System) | Voice-enabled recommendation engine, supervised learning + Flask | — | Python, Flask, Scikit-learn |
 
-### ☁️ Cloud & DevOps
-AWS S3 · EC2 · CloudFront · Ubuntu · CI/CD · Docker · Vercel · Heroku  
+---
 
-### 🧠 Machine Learning & Data
-Python · Pandas · NumPy · Scikit-Learn · LangChain · Jupyter · Google Colab · Conda  
+## ⚒️ Tech Stack
 
-### 🛠️ Tools & Platforms
-Git · GitHub · Postman · Swagger · VSCode · PyCharm  
+### 🤖 Machine Learning & Data
+Python · Scikit-learn · NumPy · Pandas · Matplotlib · Seaborn · Flask · Streamlit · Jupyter
 
-### 📊 CS Fundamentals
-Data Structures · Algorithms · DBMS · OS · Computer Networks  
+### 🌐 Full Stack & Backend
+Next.js · NestJS · React · Node.js · TypeScript · JavaScript · Prisma · GraphQL · REST APIs
+
+### 🗄️ Data & Infrastructure
+PostgreSQL · MongoDB · Redis · Elasticsearch · Docker · AWS (S3/EC2/Lambda) · GitHub Actions · Linux
+
+### 📐 CS Fundamentals
+Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS · OOP
 
 ---
 
 ## 💼 Experience
 
-| Role | Company | Duration | Tech Stack |
-|------|---------|---------|------------|
-| Junior Full-Stack Developer | Ryyft | Current | Next.js, NestJS, PostgreSQL, Prisma, AWS |
-| Full-Stack Intern | Abblor Tech | 8 months | Angular, Spring Boot, SQL (Frontend-focused) |
+| Role | Company | Duration | Focus |
+|------|---------|----------|-------|
+| Junior Full Stack Engineer | Ryyft | Nov 2025 – Present | ML pipelines, Elasticsearch, NestJS, PostgreSQL |
+| Full Stack Developer Intern | Abblor Tech | Jul 2024 – Mar 2025 | Angular, REST APIs, data analysis |
 
 ---
 
 ## 🏆 Achievements
 
-- 🧠 **Finalist**, Shristi Hackathon 2024 – Awarded ₹50,000 mentorship prize  
-- 👨‍💻 **Tech Club Secretary**, led workshops & coding mentorship drives  
+- 🏅 **Finalist**, Shristi Hackathon 2024 — awarded ₹50,000 for ML-powered solution  
+- 👨‍🏫 **Secretary**, Rise Technical Club (2023–2024) — organized AI/ML workshops, mentored 20+ juniors  
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarogya-ojha)  
-[![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:arogyaojha251@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarogya-ojha)
+[![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:arogyaojha251@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-green?style=flat)](https://www.aarogyaojha.com.np)
