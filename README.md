@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Aarogya Ojha</h1>
-<h3 align="center">Full Stack Engineer · Applied ML & NLP · Incoming MS CS Student</h3>
+<h3 align="center">Full Stack Engineer · Applied ML & NLP </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+NLP+%7C+End-to-End+ML+Pipelines;Next.js+%2F+NestJS+%2F+PostgreSQL+%2F+Elasticsearch;Actively+seeking+Graduate+Assistantship+%40+USD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+NLP+%7C+End-to-End+ML+Pipelines;Next.js+%2F+NestJS+%2F+PostgreSQL+%2F+Elasticsearch;" alt="Typing SVG" />
 </p>
 
 ---
@@ -70,3 +70,4 @@ Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS �
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarogya-ojha)
 [![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:arogyaojha251@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Website-green?style=flat)](https://www.aarogyaojha.com.np)
+
