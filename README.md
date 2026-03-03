@@ -2,14 +2,14 @@
 <h3 align="center">Full Stack Engineer · Applied ML & NLP </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+NLP+%7C+End-to-End+ML+Pipelines;Next.js+%2F+NestJS+%2F+PostgreSQL+%2F+Elasticsearch;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+NLP+%7C+End-to-End+ML+Pipelines;Next.js+%2F+NestJS+%2F+PostgreSQL+%2F+Elasticsearch;Applied+ML+%7C+NLP+%7C+Scalable+Backend+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Engineer** with a focus on **Applied Machine Learning and Natural Language Processing**, currently working at **Ryyft (Kathmandu)** and incoming **MS Computer Science student** for Fall 2026.
+I am a **Full Stack Engineer** with a focus on **Applied Machine Learning and Natural Language Processing**, currently working at **Ryyft (Kathmandu)**.
 
 My work sits at the intersection of **software engineering and data-driven systems** — from production-grade APIs and search pipelines to end-to-end ML classifiers trained on real-world datasets.
 
@@ -17,8 +17,7 @@ My work sits at the intersection of **software engineering and data-driven syste
 - 🏥 Built a **clinical diabetes prediction system** (KNN classifier, **81% accuracy**) with EDA and confusion matrix evaluation  
 - 🔍 Building **Elasticsearch-powered data retrieval pipelines** at production scale at Ryyft  
 - 🎓 **B.E. Computer Science**, CMRIT Bangalore — CGPA: **8.5/10**  
-- 🏆 **Hackathon Finalist** — Shristi 2024, Bengaluru — awarded ₹50,000 for ML-powered solution  
-- 📬 Actively seeking **Graduate Assistantship (TA/RA)** opportunities  
+- 🏆 **Hackathon Finalist** — Shristi 2024, Bengaluru — awarded ₹50,000 for ML-powered solution    
 
 ---
 
