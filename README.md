@@ -1,23 +1,21 @@
 <h1 align="center">👋 Hey, I'm Aarogya Ojha</h1>
-<h3 align="center">Full Stack Engineer · Flutter · Applied ML & NLP</h3>
+<h3 align="center">Full Stack Engineer · Applied ML & NLP</h3>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Next.js+%2F+NestJS+%2F+TypeScript+%2F+PostgreSQL;Flutter+%2F+Dart+%2F+Firebase+%2F+Supabase;Applied+ML+%7C+NLP+%7C+Scalable+Backend+Systems;Open+Source+%7C+Aero+UI+Component+Library" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Next.js+%2F+NestJS+%2F+TypeScript+%2F+PostgreSQL;PHP+%2F+Laravel+%2F+REST+APIs+%2F+PostgreSQL;Applied+ML+%7C+NLP+%7C+Scalable+Backend+Systems;Open+Source+%7C+Aero+UI+Component+Library" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Engineer** with experience across **web, mobile (Flutter), and applied ML**, currently working at **Ryyft (Kathmandu)**.
+I am a **Full Stack Engineer** with experience across **web and applied ML**, currently working at **Conceptual Frame (Kathmandu)**.
 
-My work spans production-grade backend APIs, Elasticsearch search pipelines, Flutter cross-platform apps, and end-to-end ML classifiers trained on real-world datasets.
+My work spans production-grade backend APIs, system architecture design, and end-to-end ML classifiers trained on real-world datasets.
 
 - 🎨 Built **[Aero UI](https://component-library-ashy.vercel.app)** — open source React + TypeScript component library with Storybook 8, Vitest testing, Radix UI, and a custom CLI tool
 - 🔐 Built **AuthProject** — production monorepo auth system with NestJS, cryptographic OTP, JWT, and a unique **Centralized Truth** Swagger architecture
-- 📱 Built **4 Flutter apps** — e-commerce (Firebase), AI chatbot, blog (Supabase), and expense tracker
 - 🤖 Built a **sentiment classifier on 1.6M tweets** (TF-IDF + Logistic Regression, **78% accuracy**)
 - 🏥 Built a **clinical diabetes prediction system** (KNN classifier, **81% accuracy**)
-- 🔍 Building **Elasticsearch-powered search pipelines** at production scale at Ryyft
 - 🎓 **B.E. Computer Science**, CMRIT Bangalore — CGPA: **8.5/10**
 - 🏆 **Hackathon Finalist** — Shristi 2024, Bengaluru — awarded ₹50,000 for ML-powered solution
 
@@ -31,17 +29,6 @@ My work spans production-grade backend APIs, Elasticsearch search pipelines, Flu
 | [AuthProject](https://github.com/aarogyaojha/AuthProject) | Production monorepo auth system — JWT, cryptographic OTP, Centralized Truth architecture | NestJS, Prisma, PostgreSQL, Next.js 15 |
 | [Aura](https://github.com/aarogyaojha/Aura) | Multi-service social platform — Docker Compose, GitHub Actions CI/CD, AI classifier | Node.js, Python, Docker, Tailwind CSS |
 | [Portfolio](https://www.aarogyaojha.com.np) | Personal portfolio — animations, responsive design, live deployed | Next.js, TypeScript, Framer Motion |
-
----
-
-## 📱 Flutter Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Ecommerce App](https://github.com/aarogyaojha/ecommerce_flutter) | Full-featured e-commerce — Firebase Auth, Google Sign-In, clean architecture | Flutter, Dart, Firebase |
-| [AI Chatbot](https://github.com/aarogyaojha/ai_chatbot) | Cross-platform AI chatbot — Android, iOS, Web, Desktop | Flutter, Dart, AI API |
-| [Blog App](https://github.com/aarogyaojha/blog_app) | Blog platform — Supabase backend, clean architecture, persisted auth | Flutter, Dart, Supabase |
-| [KharchaPlus](https://github.com/aarogyaojha/kharchaplus) | Expense & transit tracker for Kathmandu, Nepal | Flutter, Dart |
 
 ---
 
@@ -60,16 +47,13 @@ My work spans production-grade backend APIs, Elasticsearch search pipelines, Flu
 ## ⚒️ Tech Stack
 
 ### 🌐 Full Stack & Backend
-Next.js · NestJS · React · Node.js · TypeScript · JavaScript · Prisma · REST APIs · Swagger/OpenAPI
-
-### 📱 Mobile
-Flutter · Dart · Firebase · Supabase · Riverpod · BLoC · Clean Architecture
+Next.js · NestJS · React · Node.js · PHP · Laravel · TypeScript · JavaScript · Prisma · REST APIs · Swagger/OpenAPI
 
 ### 🤖 Machine Learning & Data
 Python · Scikit-learn · NumPy · Pandas · Matplotlib · Seaborn · Flask · Streamlit · Gemini API
 
 ### 🗄️ Data & Infrastructure
-PostgreSQL · MongoDB · Elasticsearch · Docker · Docker Compose · GitHub Actions · AWS · Azure · Linux
+PostgreSQL · MongoDB · Docker · Docker Compose · GitHub Actions · AWS · Azure · Linux
 
 ### 📐 CS Fundamentals
 Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS · OOP
@@ -80,7 +64,8 @@ Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS �
 
 | Role | Company | Duration | Focus |
 |------|---------|----------|-------|
-| Junior Full Stack Engineer | [Ryyft](https://ryyft.com) | Nov 2025 – Present | NestJS, Next.js, Elasticsearch, PostgreSQL, ML integration |
+| Associate Software Developer | [Conceptual Frame](https://conceptualframe.com) | Apr 2026 – Present | PHP, Laravel, System Architecture, Full Stack |
+| Junior Full Stack Engineer | [Ryyft](https://ryyft.com) | Nov 2025 – Apr 2026 | NestJS, Next.js, PostgreSQL, ML integration |
 | Full Stack Developer Intern | [Abblor Tech](https://www.abblor.com/) | Jul 2024 – Mar 2025 | Angular, REST APIs, backend data analysis |
 
 ---
