@@ -59,11 +59,6 @@ Full-Stack Engineer and NLP researcher. I don't stick to one stack — TypeScrip
 
 ---
 
-## Available for freelance
-
-**Evenings & weekends · UTC+5:45**  
-Backend APIs · Full-stack web apps · ML model integration
-
 [![Email](https://img.shields.io/badge/ojharenish825%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:arogyaojha251@gmail.com)
 [![Portfolio](https://img.shields.io/badge/aarogyaojha.com.np-green?style=flat-square)](https://www.aarogyaojha.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarogya-ojha)
