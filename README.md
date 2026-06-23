@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20freelance-brightgreen?style=flat-square" alt="Open to freelance" />
-  <img src="https://img.shields.io/badge/Full--Stack%20%C2%B7%20Backend%20%C2%B7%20ML%20Integration-blue?style=flat-square" alt="Specialization" />
+  <img src="https://img.shields.io/badge/Polyglot%20Dev%20%C2%B7%20TS%20%C2%B7%20PHP%20%C2%B7%20Python-brightgreen?style=flat-square" alt="Polyglot Dev" />
+  <img src="https://img.shields.io/badge/Full--Stack%20%C2%B7%20Backend%20%C2%B7%20NLP%20Research-blue?style=flat-square" alt="Specialization" />
   <img src="https://img.shields.io/badge/Kathmandu%2C%20Nepal%20%C2%B7%20UTC%2B5%3A45-gray?style=flat-square" alt="Location" />
 </p>
 
 ---
 
-Full-Stack Engineer and Applied ML practitioner. I design and ship production backend systems — REST APIs, auth infrastructure, real-time services — and integrate ML models into product workflows. Currently at Conceptual Frame (Kathmandu) and available for freelance projects on evenings and weekends.
+Full-Stack Engineer and NLP researcher. I don't stick to one stack — TypeScript, PHP, Python, I pick what the problem needs. Day-to-day that means designing and shipping production backend systems: REST APIs, auth infrastructure, real-time services, and ML model integration. Currently at Conceptual Frame (Kathmandu).
 
 ---
 
@@ -25,7 +25,7 @@ Full-Stack Engineer and Applied ML practitioner. I design and ship production ba
 | [Real Estate Listing Engine](https://github.com/aarogyaojha/real-estate-listing) | Multi-role property platform with admin field-level sanitization and TanStack Query optimistic UI — built to prevent sensitive field leakage across roles | NestJS · Prisma · Next.js · PostgreSQL · Docker |
 | [RateLane](https://github.com/aarogyaojha/ratelane) | Shipping rate comparison platform — capability-based carrier architecture so adding FedEx never touches UPS code, JWT auth, RBAC admin dashboard, UPS API v2409 integration | NestJS · Prisma · PostgreSQL · Next.js · Docker · Swagger |
 | [Aura](https://github.com/aarogyaojha/Aura) | Anonymous social platform — multi-service Docker Compose, Python ML content moderation running as its own service, GitHub Actions CI/CD | Node.js · Python · Docker Compose · GitHub Actions |
-| [Cross-Domain Sentiment Analysis](https://github.com/aarogyaojha/sentiment_analysis) | Benchmarked TF-IDF vs. fine-tuned DistilBERT on Twitter→IMDB transfer — documented a 14-point accuracy gap that classical models cannot close | Python · DistilBERT · PyTorch · Scikit-learn · Pandas |
+| [Cross-Domain Sentiment Analysis](https://github.com/aarogyaojha/sentiment_analysis) | Benchmarked TF-IDF vs. DistilBERT on Twitter→IMDB transfer — found that DistilBERT's in-domain advantage collapses under domain shift, with classical baselines holding competitive under distribution change | Python · DistilBERT · PyTorch · Scikit-learn · Pandas |
 | [Aero UI](https://component-library-ashy.vercel.app) | Open-source React component library — Storybook 8, Vitest unit tests, Radix UI primitives, custom CLI for scaffolding components into any project | Next.js 15 · TypeScript · Tailwind CSS v4 · Radix UI |
 
 ---
@@ -61,7 +61,7 @@ Full-Stack Engineer and Applied ML practitioner. I design and ship production ba
 
 ## Available for freelance
 
-**Evenings & weekends · UTC+5:45 · Starting at $15/hr or fixed-price projects**  
+**Evenings & weekends · UTC+5:45**  
 Backend APIs · Full-stack web apps · ML model integration
 
 [![Email](https://img.shields.io/badge/ojharenish825%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ojharenish825@gmail.com)
